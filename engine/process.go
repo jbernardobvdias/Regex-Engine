@@ -1,5 +1,5 @@
 package engine
 
-func (d Data) Process() string {
-	return ""
+func (d Data) Process() []string {
+	return []string{}
 }

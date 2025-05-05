@@ -1,5 +1,5 @@
 package engine
 
-func Match() bool {
+func (d Data) Match() bool {
 	return true
 }
